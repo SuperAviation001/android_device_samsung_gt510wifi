@@ -17,7 +17,3 @@
 LOCAL_PATH := device/samsung/gt510wifi
 PRODUCT_MAKEFILES := $(LOCAL_DIR)/lineage_gt510wifi.mk
 
-COMMON_LUNCH_CHOICES := \
-    lineage_gt510wifi-user \
-    lineage_gt510wifi-userdebug \
-    lineage_gt510wifi-eng
